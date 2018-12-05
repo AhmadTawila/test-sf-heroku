@@ -58,7 +58,7 @@
     },
     "scripts": {
         "auto-scripts": {
-            
+
         },
         "post-install-cmd": [
             "@auto-scripts"
